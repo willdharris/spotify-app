@@ -3,6 +3,7 @@
 A full stack web app to visualize personalized Spotify data.
 
 [Demo](https://whm-spotify.herokuapp.com/)
+![whm-spotify herokuapp com_](https://user-images.githubusercontent.com/66787651/152201115-17ce2965-4ad2-445a-820c-f59d9d79036d.png)
 
 Built with:
 
@@ -10,6 +11,7 @@ Built with:
 - Express
 - Create React App
 - Styled Components
+- OAuth 2.0
 - Spotify API
 - Heroku
 
@@ -38,3 +40,7 @@ Built with:
    ```shell
    npm start
    ```
+
+   ## Credits
+
+   Final product of the newline.co [course](https://www.newline.co/courses/build-a-spotify-connected-app), "Build a Spotify Connected App".
